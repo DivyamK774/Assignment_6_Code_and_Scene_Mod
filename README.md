@@ -1,2 +1,6 @@
 # Assignment 6: Code and Scene Modification
 In this assignment, code and scene modification, I changed two parts of the player's script. Change number one is that I changed the movement speed of my character from 5 to 10. I did this because I had a small character compared to my map, so the player needed some extra speed to compensate for the size difference. My second change was that I locked my character's rotation (Z) so that the character would stay upright. I wanted this because the player would turn and rotate around corners, which I did not want.
+
+A challenge I faced during the building proccess of my game was that I could not find the way to freeze the rotation of my player because again, I wanted to keep my player upright at all times. Another challenge I had to overcome was attaching my main camera to my player, because I wanted the camera to move with the player to make the maze game harder. 
+
+For challenge number one, my player did not even have a ridgid body, so I started off by adding that. Then, I locked my player's rotation. To do this, I had the help of my friends and also google. For challenge number two, I fiddled around with unity, and I found out that I could attach the camera using the hierarchy. All I had to do was hover the main camera over my player in the hierarchy and put them in the same folder to attach them.
