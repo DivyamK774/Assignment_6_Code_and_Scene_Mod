@@ -1,1 +1,1 @@
-# Scene-and-Code-Mod-Assignment
+# Assignment 6: Code and Scene Modification
