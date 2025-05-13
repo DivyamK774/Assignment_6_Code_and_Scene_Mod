@@ -1,1 +1,2 @@
 # Assignment 6: Code and Scene Modification
+In this assignment, code and scene modification, I changed two parts of the player's script. Change number one is that I changed the movement speed of my character from 5 to 10. I did this because I had a small character compared to my map, so the player needed some extra speed to compensate for the size difference. My second change was that I locked my character's rotation (Z) so that the character would stay upright. I wanted this because the player would turn and rotate around corners, which I did not want.
